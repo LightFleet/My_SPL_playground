@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f70fbb1-def3-4d78-ab74-05e48c9b3a4d" name="Default Changelist" comment="" />
+    <list default="true" id="3f70fbb1-def3-4d78-ab74-05e48c9b3a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercise Files/array_and_limit_iterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/directoryIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/filisystemIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/recursiveDirectoryIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/splFileObject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/workwithtextSPLFileObj.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +44,16 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1xmCg2QYJlc026iVyDYaUX6NWXl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +62,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise Files" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\exfri\Desktop\site\Exercise Files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\exfri\Desktop\site\Exercise Files" />
     </key>
@@ -36,11 +82,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630950983505</updated>
-      <workItem from="1630950985428" duration="332000" />
+      <workItem from="1630950985428" duration="692000" />
+      <workItem from="1630951688238" duration="7555000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="354" key="FileChooserDialogImpl" timestamp="1630951683596">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="354" key="FileChooserDialogImpl/0.0.1920.1160/-1680.0.1680.1010@0.0.1920.1160" timestamp="1630951683596" />
+    <state x="794" y="523" key="NewPhpFileDialog" timestamp="1630951745061">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="794" y="523" key="NewPhpFileDialog/0.0.1920.1160/-1680.0.1680.1010@0.0.1920.1160" timestamp="1630951745061" />
+    <state x="624" y="284" key="run.anything.popup" timestamp="1630955346666">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="624" y="284" key="run.anything.popup/0.0.1920.1160/-1680.0.1680.1010@0.0.1920.1160" timestamp="1630955346666" />
+    <state x="623" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1630958676659">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="269" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/-1680.0.1680.1010@0.0.1920.1160" timestamp="1630958676659" />
   </component>
 </project>
